@@ -1,0 +1,73 @@
+Customer: Hi, I'm looking to buy a new phone, and I'm interested in Apple products.
+
+Sales Agent: Great, we have a wide range of Apple products to choose from. What particular Apple product are you inerested in?
+
+Customer: Well, I want a phone with a good camera, long battery life, and plenty of storage.
+
+Sales Agent: Absolutely. We have a lot of great options that meet those criteria. Have you considered the iPhone 15 Pro Max?
+
+Customer: No, I haven't. Tell me more about it.
+
+Sales Agent: The iPhone 15 Pro Max has a 48-megapixel main camera, a 12MP wide-angle camera, and a 12MP telephoto camera, which takes incredibly high-quality photos and videos. It also has a battery capacity of 4,441mAh, a 30W charger, which gives you up to 14 hours of usage in a day. The Apple iPhone 15 Pro Max is available in 3 different storage options- 256GB, 512GB, and 1TB, which gives you plenty of space for all your photos, videos, and apps.
+
+Customer: That sounds great. How much does it cost?
+
+Sales Agent: The iPhone 15 Pro Max starts at  ₦2,099,000.00But please note, that the price varies due to the storage capacity of the specific iPhone you want, but we have some great financing options that make it affordable for everyone.
+
+Customer: Okay, I'm interested. But I have a few more questions. What kind of warranty comes with the phone?
+
+Sales Agent: Every iPhone comes with a one year of hardware repair coverage through its limited warranty and up to 90 days of complimentary technical support. Both AppleCare and AppleCare with Theft and Loss extend that coverage and give you additional features such as a standby priority tech support and accidental damage protection
+
+Customer: That's good to know. And what about the operating system? Does it come with the latest version of Android?
+
+Sales Agent: No, it does not come with the latest Android version. Every iPhone runs on iOS, and the iPhone 15 Pro Max runs iOS 17. It can  also be used as a dual-sim phone- eSim, and a physical sim together.
+
+Customer: Okay, that's good. But I'm also interested in some of the other iPhones. Can you tell me more about the iPhone 13 Pro and iPhone 13 Pro Max?
+
+Sales Agent: Absolutely. The iPhone 13 Pro Max, and the iPhone 13 Pro both have a trio of 12MP cameras on the back. Those cover the roles of main, ultrawide and 3x telephoto duties. They both have the following features-
+Splash, Water, and Dust Resistant which is 3 Rated IP68 with a maximum depth of 6 meters up to 30 minutes under IEC standard 60529, A15 Bionic chip, Video Recording, TrueDepth Camera, Face ID, Cellular and Wireless, Location. However, the iPhone 13 Pro Max differs from the Pro version when it comes to size. The Pro Max has a larger 6.7-inch screen compared to the 6.1-inch screen of the iPhone 13 Pro and base model iPhone 13. 
+
+Customer: That sounds like a good option for me. How much does it cost?
+
+Sales Agent: The iPhone 13 Pro starts at N985,000, while the iPhone 13 Pro Max starts at ₦1,050,000, but again, the price varies due to the storage capacity of the specific iPhone you want. We have some great financing options that can make it more affordable.
+
+Customer: Okay, I'll think about it. But can you also tell me about the iPad? I've heard a lot about it, and I'm curious.
+
+Sales Agent: Of course. There are different iPad under the Apple product. We have the Apple iPad, iPad Air, iPad Mini, iPad Pro.
+
+Customer: Wow, can I know more about the iPad Pro?
+
+Sales Agent: Of course. We have the iPad Pro 11‑inch, and the iPad Pro 12.9‑inch. They both come in two colours which are Silver, and Space Gray, and have capacities of 128GB, 256GB, 512GB, 1TB, 2TB, which also depends on your preference. Their key features are- Liquid Retina display, 11-inch diagonal LED backlit Multi‑Touch display with IPS technology, 2388-by-1668-pixel resolution at 264 pixels per inch ppi, ProMotion technology, Wide color display P3, True Tone display, Fingerprint-resistant oleophobic coating, Fully laminated display. 
+
+Customer: That sounds really cool, but it also sounds expensive. How much does it cost?
+
+Sales Agent: The 12.9-inch iPad Pro M2 Chip is between ₦3,700,000 – ₦4,700,000, which depends on the capacity you want, while the 11-inch iPad Pro M2 Chip is between ₦3,600,000 – ₦4,500,000 which also depends on the capacity you want. But again, we have financing options that can make it more affordable.
+
+Customer: Hmm, I'm not sure. That's a lot of money for a gadget.
+
+Sales Agent: I understand. The Apple products are definitely luxury gadgets, and unfortunately, they are not for everyone. But if you're looking for something more affordable, we have a lot of other great iPhones that might be a better fit for your budget.
+
+Customer: Okay, can you tell me more about the iPhone XS Max?
+
+Sales Agent: Sure, the iPhone XS Max, which comes in 64GB, 256GB, 512GB respectively, is another great mid-range iPhone that has similar features as the iPhone 12 Pro Max , but with a 6.5-inch OLED display, with a powerful 3,174mAh battery where on wireless talk time goes up to 25 hours, internet use up to 13 hours and video playback up to 15 hours, and a 12-megapixel dual camera at the back and a 7-megapixel selfie camera at the front cameras which means you get more range in your photos. It also comes with an iOS 12, up to iOS 17.4.
+
+Customer: That sounds like a great option for me. How much does it cost?
+
+Sales Agent: The iPhone XS Max starts at ₦750,440, but as I mentioned earlier, it depends on the capacity you want, and we have financing options that can make it more affordable for you.
+
+Customer: Okay, I'll definitely consider it. But before I make a decision, can you tell me more about the financing options?
+
+Sales Agent: Of course. We have a few different financing options available, including a payment plan that lets you pay for the phone over the course of 24 or 36 months, with 0% interest. We also have a trade-in program that can help reduce the cost of your new phone if you have an old phone that you no longer need.
+
+Customer: That's good to know. And what if I have issues with the phone? Do you offer any support?
+
+Sales Agent: Yes, we offer a lot of support options for our Apple products. We have a dedicated customer support team that can help you with any issues you might have, and we also have a lot of online resources and tutorials that can help you troubleshoot any problems on your own.
+
+Customer: Okay, that sounds great. I think I'm interested in the iPhone XS Max. How do I go about buying it?
+
+Sales Agent: Great, I'm glad to hear that. To buy the phone, you can either visit one of our stores in person or order it online through our website. If you choose to order it online, you can customize your phone and choose your financing options during the checkout process.
+
+Customer: Okay, that sounds simple enough. Thanks for all your help.
+
+Sales Agent: You're welcome. If you have any other questions or concerns, do not hesitate to reach out to us.And you can always scroll through the phone and gadget option on the app. We're always here to help.
+
